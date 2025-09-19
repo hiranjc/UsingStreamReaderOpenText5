@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\bin\Debug\net8.0\UsingStreamReaderOpenText5.exe
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\bin\Debug\net8.0\UsingStreamReaderOpenText5.deps.json
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\bin\Debug\net8.0\UsingStreamReaderOpenText5.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\bin\Debug\net8.0\UsingStreamReaderOpenText5.dll
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\bin\Debug\net8.0\UsingStreamReaderOpenText5.pdb
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.dll
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\refint\UsingStreamReaderOpenText5.dll
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.pdb
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\UsingStreamReaderOpenText5.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\UsingStreamReaderOpenText5\obj\Debug\net8.0\ref\UsingStreamReaderOpenText5.dll
